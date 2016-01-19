@@ -1,0 +1,6 @@
+.ORIG x3F00
+
+.FILL x0003
+.FILL xFFFD
+
+.END
