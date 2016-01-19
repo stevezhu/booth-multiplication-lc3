@@ -13,4 +13,4 @@ You can find Booth's multiplication algorithm description on Wikipedia
 - Your program must use a loop.
 - You may only use at most 50 LC-3 instructions (not including the input/output numbers).
 - Your code must be commented properly.
-- To submit you code, add js folder to your svn repository and commit the code to svn.
+- To submit your code, add js folder to your svn repository and commit the code to svn.
